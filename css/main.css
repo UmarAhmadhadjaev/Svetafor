@@ -1,0 +1,38 @@
+.svetafor {
+  width: 300px;
+  height: 620px;
+  background-color: black;
+  border-radius: 80px;
+  margin: 50px auto;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+  box-sizing: border-box;
+}
+
+.red {
+  width: 170px;
+  height: 170px;
+  background-color: red;
+  border-radius: 50%;
+  opacity: 0.4;
+}
+
+.yellow {
+  width: 170px;
+  height: 170px;
+  background-color: orange;
+  border-radius: 50%;
+  opacity: 0.4;
+}
+
+.green {
+  width: 170px;
+  height: 170px;
+  background-color: green;
+  border-radius: 50%;
+  opacity: 0.4;
+
+}
